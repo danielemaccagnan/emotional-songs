@@ -1,0 +1,26 @@
+
+CanzoneUno
+
+Meraviglia 1
+Solennità 2
+tenerezza 3
+nostalgia 4
+calma 5
+forza 4
+gioia 3
+tensione 2
+tristezza 1
+__________
+
+CanzoneDue
+
+Meraviglia 5
+Solennità 4
+tenerezza 3
+nostalgia 2
+calma 1
+forza 2
+gioia 3
+tensione 4
+tristezza 5
+__________
