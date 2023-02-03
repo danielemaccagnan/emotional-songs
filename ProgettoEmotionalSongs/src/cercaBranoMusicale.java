@@ -3,6 +3,7 @@ import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.ArrayList;
 
 public class cercaBranoMusicale extends Registrazione {
 	public static void cercaBranoMusicale(String titolo) throws IOException {
@@ -19,6 +20,7 @@ public class cercaBranoMusicale extends Registrazione {
 			
 			String line = reader.readLine();
 			int cont=0;
+			ArrayList<Integer> hashArr = new ArrayList<Integer>();
 			
 			
 			//Partenza scorrimento file
@@ -44,26 +46,27 @@ public class cercaBranoMusicale extends Registrazione {
 				}
 				
 				//Titolo trovato
-				// posizione 32 in line Ë il primo carattere dell'autore
+				// posizione 32 in line √® il primo carattere dell'autore
 				
 				if(uguale==true) {
 					if(flag) {
 						flag = false;
 						hash = line.substring(32).hashCode();
 						System.out.println(line);
+						arr.add(hash);
 						cont++;			
-						//stampa gi‡ avvenuta
+						//stampa gi√† avvenuta
 					}else {
 						
-						if(line.substring(32).hashCode() != hash) {
+						if(!hashEqual(arr,line.subString(32).hashCode())) {
 							System.out.println(line);
-							flag = true;
+						
 						}	
 				}
 			}
 					line=reader.readLine();
 					if(line==null&&cont==0) {
-						System.out.println("non Ë stata trovata nessuna canzone");
+						System.out.println("non √® stata trovata nessuna canzone");
 						break;
 					}
 				}	
@@ -79,6 +82,8 @@ public class cercaBranoMusicale extends Registrazione {
 			String line = reader.readLine();
 			String annoo = String.valueOf(anno);
 			int cont=0;
+			ArrayList<Integer> hashArr = new ArrayList<Integer>();
+		
 			while (line != null) {
 				boolean uguale=true;
 				boolean ugualee = true;
@@ -107,10 +112,11 @@ public class cercaBranoMusicale extends Registrazione {
 						flag = false;
 						hash = line.substring(32).hashCode();
 						System.out.println(line);
+						arr.add(hash);
 						cont++;						
 					}else {
 						
-						if(line.substring(32).hashCode() != hash) {
+						if(!hashEqual(arr,line.substring(32).hashCode())) {
 							
 							System.out.println(line);
 							cont++;
@@ -120,7 +126,18 @@ public class cercaBranoMusicale extends Registrazione {
 					line=reader.readLine();				
 				}
 			if(reader.readLine()==null&&cont==0) 
-				System.out.println("non Ë stata trovata nessuna canzone");
+				System.out.println("non √® stata trovata nessuna canzone");
+	}
+	
+	private static boolean hashEqual(ArrayList<Integer> arr, int h){
+		
+		for(Integer hash : arr){
+			if(h == hash)
+				return true
+			}
+		arr.add(h);
+		return false;
+			
 	}
 }
 
