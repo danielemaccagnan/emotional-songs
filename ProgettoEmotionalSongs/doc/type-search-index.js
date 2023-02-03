@@ -1,1 +1,0 @@
-typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"cercaBranoMusicale"},{"p":"<Unnamed>","l":"InserisciEmozioni"},{"p":"<Unnamed>","l":"Login"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"RegistraPlaylist"},{"p":"<Unnamed>","l":"Registrazione"},{"p":"<Unnamed>","l":"VisualizzaEmozioni"}];updateSearchResults();
