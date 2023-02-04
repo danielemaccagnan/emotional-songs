@@ -1,0 +1,52 @@
+Prova
+
+meraviglia 1
+solennità 2
+tenerezza 3
+nostalgia 4
+calma 5
+forza 4
+gioia 3
+tensione 2
+tristezza 1
+_ _ _ _ _ _ _
+
+post malone
+
+meraviglia 5
+solennità 5
+tenerezza 5
+nostalgia 5
+calma 5
+forza 5
+gioia 5
+tensione 5
+tristezza 5
+_ _ _ _ _ _ _
+
+post malone
+
+meraviglia 4
+solennità 4
+tenerezza 4
+nostalgia 4
+calma 4
+forza 4
+gioia 4
+tensione 4
+tristezza 4
+_ _ _ _ _ _ _
+
+z
+
+meraviglia 3
+solennità 3
+tenerezza 3
+nostalgia 3
+calma 3
+forza 3
+gioia 3
+tensione 3
+tristezza 3
+_ _ _ _ _ _ _
+
