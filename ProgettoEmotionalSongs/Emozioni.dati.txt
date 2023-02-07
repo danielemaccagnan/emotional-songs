@@ -1,0 +1,273 @@
+nobody
+
+meraviglia 1
+solennita' 2
+tenerezza 3
+nostalgia 4
+calma 5
+forza 4
+gioia 4
+tensione 4
+tristezza 4
+_ _ _ _ _ _ _
+
+no
+
+meraviglia 1
+solennita' 2
+tenerezza 3
+nostalgia 3
+calma 3
+forza 3
+gioia 3
+tensione 3
+tristezza 3
+_ _ _ _ _ _ _
+
+no
+
+meraviglia 5
+solennita' 5
+tenerezza 5
+nostalgia 5
+calma 5
+forza 5
+gioia 5
+tensione 5
+tristezza 5
+_ _ _ _ _ _ _
+
+blues
+
+meraviglia 5
+solennita' 4
+tenerezza 3
+nostalgia 2
+calma 1
+forza 2
+gioia 3
+tensione 4
+tristezza 5
+_ _ _ _ _ _ _
+
+nobody
+
+meraviglia 1
+solennita' 2
+tenerezza 3
+nostalgia 4
+calma 5
+forza 4
+gioia 5
+tensione 4
+tristezza 5
+_ _ _ _ _ _ _
+
+nope
+
+meraviglia 5
+solennita' 4
+tenerezza 3
+nostalgia 2
+calma 3
+forza 4
+gioia 5
+tensione 4
+tristezza 5
+_ _ _ _ _ _ _
+
+hello
+
+meraviglia 1
+solennita' 2
+tenerezza 3
+nostalgia 4
+calma 4
+forza 4
+gioia 4
+tensione 3
+tristezza 5
+_ _ _ _ _ _ _
+
+fault
+
+meraviglia 5
+solennita' 5
+tenerezza 5
+nostalgia 5
+calma 5
+forza 5
+gioia 5
+tensione 5
+tristezza 5
+_ _ _ _ _ _ _
+
+where
+
+meraviglia 5
+solennita' 4
+tenerezza 3
+nostalgia 4
+calma 5
+forza 4
+gioia 5
+tensione 4
+tristezza 5
+_ _ _ _ _ _ _
+
+what
+
+meraviglia 5
+solennita' 4
+tenerezza 3
+nostalgia 2
+calma 3
+forza 4
+gioia 3
+tensione 5
+tristezza 1
+_ _ _ _ _ _ _
+
+why
+
+meraviglia 5
+solennita' 4
+tenerezza 3
+nostalgia 4
+calma 3
+forza 4
+gioia 3
+tensione 4
+tristezza 3
+_ _ _ _ _ _ _
+
+why
+
+meraviglia 1
+solennita' 1
+tenerezza 1
+nostalgia 1
+calma 1
+forza 1
+gioia 1
+tensione 1
+tristezza 1
+_ _ _ _ _ _ _
+
+what
+
+meraviglia 1
+solennita' 2
+tenerezza 3
+nostalgia 4
+calma 5
+forza 4
+gioia 3
+tensione 2
+tristezza 1
+_ _ _ _ _ _ _
+
+sun
+
+meraviglia 1
+solennita' 2
+tenerezza 3
+nostalgia 4
+calma 5
+forza 4
+gioia 3
+tensione 2
+tristezza 1
+_ _ _ _ _ _ _
+
+sunny
+
+meraviglia 3
+solennita' 3
+tenerezza 3
+nostalgia 3
+calma 3
+forza 3
+gioia 3
+tensione 3
+tristezza 3
+_ _ _ _ _ _ _
+
+wow
+
+meraviglia 5
+solennita' 5
+tenerezza 4
+nostalgia 4
+calma 3
+forza 3
+gioia 2
+tensione 2
+tristezza 1
+_ _ _ _ _ _ _
+
+sun
+
+meraviglia 1
+solennita' 2
+tenerezza 3
+nostalgia 4
+calma 5
+forza 4
+gioia 3
+tensione 2
+tristezza 4
+_ _ _ _ _ _ _
+
+sun
+
+meraviglia 1
+solennita' 2
+tenerezza 3
+nostalgia 4
+calma 5
+forza 4
+gioia 3
+tensione 2
+tristezza 3
+_ _ _ _ _ _ _
+
+sun
+
+meraviglia 1
+solennita' 2
+tenerezza 3
+nostalgia 4
+calma 5
+forza 4
+gioia 3
+tensione 2
+tristezza 4
+_ _ _ _ _ _ _
+
+sun
+
+meraviglia 1
+solennita' 2
+tenerezza 3
+nostalgia 4
+calma 5
+forza 4
+gioia 3
+tensione 4
+tristezza 5
+_ _ _ _ _ _ _
+
+sunny
+
+meraviglia 1
+solennita' 2
+tenerezza 1
+nostalgia 1
+calma 1
+forza 1
+gioia 1
+tensione 1
+tristezza 1
+_ _ _ _ _ _ _
+
